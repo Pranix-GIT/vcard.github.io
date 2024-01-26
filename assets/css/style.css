@@ -1746,7 +1746,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-list { grid-template-columns: repeat(3, 1fr); }
 
-  .own { 
+  #own { 
     color: white;
   }
 
